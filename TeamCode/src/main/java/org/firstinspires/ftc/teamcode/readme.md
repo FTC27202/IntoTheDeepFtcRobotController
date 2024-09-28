@@ -1,4 +1,3 @@
-test
 ## TeamCode Module
 
 Welcome!
